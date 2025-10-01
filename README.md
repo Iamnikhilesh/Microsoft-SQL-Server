@@ -24,9 +24,9 @@ Microsoft-SQL-Server/
 2. **Open SQL Server Management Studio (SSMS) or any SQL editor.**
 
 3. **Run the .sql scripts in order:**
-    BASIC_SQL_Notes.sql (optional for reference)
-    SQL_Query_Task-1.sql
-    SQL_Query_Task-2.sql
-    SQL_Query_Task-3.sql
+   - BASIC_SQL_Notes.sql (optional for reference)
+   - SQL_Query_Task-1.sql
+   - SQL_Query_Task-2.sql
+   - SQL_Query_Task-3.sql
 
 4. **Verify results in the SSMS Results window.**
